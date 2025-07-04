@@ -4,6 +4,9 @@
     font: italic;
     font-weight: bold;
     border-radius: 20px;
+    border: 2px solid green;
+    padding: 10px 15px;
+    margin: 20px;
 }
 
 #title{
