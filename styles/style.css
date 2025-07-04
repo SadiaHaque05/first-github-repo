@@ -1,9 +1,10 @@
-.cow{
-    
-
+#an{
+    background-color: gainsboro;
+    color: darkred;
+    font: italic;
+    font-weight: bold;
 }
 
-.horse{
+.cow{
     
-
 }
