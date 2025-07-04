@@ -6,11 +6,17 @@
     border-radius: 20px;
 }
 
+#title{
+    text-align: center;
+    font-weight: bolder;
+}
+
 .cow{
     border: 2px solid maroon;
     border-radius: 10px;
     margin: 5%;
     padding: 10px 15px;
+
 } 
 
 .horse{
@@ -18,4 +24,5 @@
     border-radius: 10px;
     margin: 5%;
     padding: 10px 15px;
+    
 }
